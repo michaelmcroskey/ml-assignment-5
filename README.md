@@ -33,6 +33,8 @@ Below is the Error Surface Plot from Q1 Extra Credit.
 
 ![Alt text](images/q1ec.png?raw=true "Error Surface Plot from Q1")
 
+Here you can see that the error rates improve with lower initial learning rate n and the extra step where the learning rate is divided by the iteration.
+
 ### Question 2
 
 When running a t-test with error as the metric, the results are with a 95% confidence:
