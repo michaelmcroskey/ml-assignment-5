@@ -26,4 +26,24 @@ Michael McRoskey, Maggie Thomann
 
 *Please provide a report that includes the error surface plot from Q1, and the results of the 10-fold CV analyses from Q2 as part of your submission. In addition, please provide the python code / notebook that was used to accomplish the assignment. Please upload to Sakai.*
 
+### Question 1
+
+Below is the Error Surface Plot from Q1.
+
 ![Alt text](images/q1.png?raw=true "Error Surface Plot from Q1")
+
+Below is the Error Surface Plot from Q1 Extra Credit.
+
+![Alt text](images/q1ec.png?raw=true "Error Surface Plot from Q1")
+
+### Question 2
+
+When running a t-test with error as the metric, the results are with a 95% confidence:
+
+T_Test between MLPClassifier & DecisionTreeClassifier: T Value = -10.809095423, P Value = 5.68747097172e-08
+MLPClassifier is statistically significantly worse than DecisionTreeClassifier
+
+When running a t-test with f-measure as the metric, the results are with a 95% confidence:
+
+T_Test between MLPClassifier & DecisionTreeClassifier: T Value = -6.74368570283, P Value = 2.74752912151e-05
+MLPClassifier is statistically significantly worse than DecisionTreeClassifier
