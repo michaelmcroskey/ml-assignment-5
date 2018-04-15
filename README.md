@@ -17,9 +17,6 @@ Michael McRoskey, Maggie Thomann
 3. Navigate to this repository in the terminal andexecute `$ jupyter notebook`. It should open a web browser.
 4. You can then open `question-1.ipynb` or `question-2.ipynb` to view and execute code.
 
-## Known Issues
-
-1. 
 
 ## Report
 
@@ -40,10 +37,12 @@ Below is the Error Surface Plot from Q1 Extra Credit.
 
 When running a t-test with error as the metric, the results are with a 95% confidence:
 
-T_Test between MLPClassifier & DecisionTreeClassifier: T Value = -10.809095423, P Value = 5.68747097172e-08
+T_Test between MLPClassifier & DecisionTreeClassifier: T Value = -8.55448608048, P Value = 8.49922930944e-07
 MLPClassifier is statistically significantly worse than DecisionTreeClassifier
 
 When running a t-test with f-measure as the metric, the results are with a 95% confidence:
 
-T_Test between MLPClassifier & DecisionTreeClassifier: T Value = -6.74368570283, P Value = 2.74752912151e-05
+T_Test between MLPClassifier & DecisionTreeClassifier: T Value = -5.32803812636, P Value = 0.000203255046296
 MLPClassifier is statistically significantly worse than DecisionTreeClassifier
+
+The classifier performance is the same each time whether the scoring metric is the error as the metric or the f-measure.  
