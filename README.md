@@ -6,9 +6,10 @@ Michael McRoskey, Maggie Thomann
 
 ## Files
 1. **`question-1.ipynb`**:
-1. **`question-2.ipynb`**:
-2. images/
-3. **`README.md`**
+2. **`question-2.ipynb`**:
+3. data/
+4. **`README.md`**
+5. images/
 
 ## Usage
 1. We recommend running in a virtual environment like [VirtualEnv](https://virtualenv.pypa.io/en/stable/)
@@ -22,4 +23,7 @@ Michael McRoskey, Maggie Thomann
 
 ## Report
 
+
 *Please provide a report that includes the error surface plot from Q1, and the results of the 10-fold CV analyses from Q2 as part of your submission. In addition, please provide the python code / notebook that was used to accomplish the assignment. Please upload to Sakai.*
+
+![Alt text](images/q1.png?raw=true "Error Surface Plot from Q1")
