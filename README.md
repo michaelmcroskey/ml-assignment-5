@@ -25,9 +25,13 @@ Michael McRoskey, Maggie Thomann
 
 ### Question 1
 
-Below is the Error Surface Plot from Q1.
+Below is the Error Plot from Q1.
 
-![Alt text](images/q1.png?raw=true "Error Surface Plot from Q1")
+![Alt text](images/q1.png?raw=true "Error Plot from Q1")
+
+Below is the Decision Surface Plot from Q1.
+
+![Alt text](images/q1dec.png?raw=true "Decision Surface Plot from Q1")
 
 Below is the Error Surface Plot from Q1 Extra Credit.
 
